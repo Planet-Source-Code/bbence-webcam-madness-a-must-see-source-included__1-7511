@@ -1,0 +1,3 @@
+Run register.bat to copy the required files to the system directory and register them.
+This project also requires the Microsoft Common Controls and the Data control. If you don't have them, ask for it at the code page and I will send you them.
+Other questions, comments are also welcome.
